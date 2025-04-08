@@ -45,7 +45,7 @@ This project showcases:
    - Visualized distribution of conversions across control and treatment
    - Compared user behavior across segments
 
-4. Hypothesis Testing*  
+4. Hypothesis Testing
    - Set up null and alternative hypotheses
    - Applied **two-sample z-test** for proportions
    - Interpreted p-values and confidence intervals
